@@ -14,7 +14,7 @@ module.exports = {
         'inter': ["Inter", 'sans-serif'],
       },
       backgroundImage: {
-        'night': "url('/assets/images/bg.png')",
+        'night': "url('./assets/images/bg.png')",
       },
       animation: {
         wiggle: 'wiggle 3s ease-in-out infinite',
